@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcForDream
 - 👀 I’m interested in blockchains and artificial intelligence.
 - 🌱 I’m currently learning blockchains and java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on blockchains or javaweb projects.
 - 📫 How to reach me ...
 
 <!---
